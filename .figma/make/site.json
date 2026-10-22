@@ -1,0 +1,10 @@
+{
+  "description": "Centralizes college event discovery by department and fest, enabling students to find, track, and save campus opportunities with clear deadlines and details.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
